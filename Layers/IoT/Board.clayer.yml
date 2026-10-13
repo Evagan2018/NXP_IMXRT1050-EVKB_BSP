@@ -36,7 +36,7 @@ layer:
     - pack: NXP::EVKB-IMXRT1050_BSP@18.0.0
     - pack: Keil::IMXRT1050-EVKB_BSP@>=2.0.0-0
     - pack: Keil::iMXRT105x_MWP@>=2.0.0-0
-    - pack: ARM::CMSIS@>=6.1.0
+    - pack: ARM::CMSIS@6.4.0
     - pack: ARM::CMSIS-Driver@>=2.9.0-0
     - pack: ARM::CMSIS-Compiler@>=2.0.0
 
